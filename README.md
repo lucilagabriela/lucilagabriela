@@ -1,7 +1,7 @@
 ### Olá! Sou Lucila Gabriela
 
 - 📚 Engenharia da Computação
-- 💻 Iniciante em tecnologia e curiosa
+- 💻 Iniciante em tecnologia
 - 💭
 
 <div align="center">
