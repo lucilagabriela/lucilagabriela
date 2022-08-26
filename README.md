@@ -2,7 +2,7 @@
 
 - 📚 Engenharia da Computação
 - 💻 Iniciante em tecnologia
-- 💭
+- 💭 "I am not in competition with anyone but myself. My goal is to improve myself continpusly."
 
 <div align="center">
   <a href="https://github.com/lucilagabriela">
