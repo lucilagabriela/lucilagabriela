@@ -1,4 +1,4 @@
-### Olá! Sou Lucila Gabriela
+### Hello! I'm Lucila Gabriela
 
 - 📚 Computer Engineering
 - 💻 Technologhy
